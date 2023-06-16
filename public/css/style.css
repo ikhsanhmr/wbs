@@ -1,0 +1,33 @@
+  body{
+      background-image: url('images/background1.jpg');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size:cover;
+      font-family: "Roboto", sans-serif;
+  }
+  /* .btn{
+          background: #2a2a72;
+          color: white;
+      }
+  .btn:hover{
+          background: #22225c;
+          color: rgb(228, 228, 228);
+      }
+  
+  .form-signin .form-floating:focus-within {
+    z-index: 2;
+  }
+  
+  .form-signin input[type="email"] {
+    margin-bottom: 10px;
+  
+  }
+  
+  .form-signin input[type="password"] {
+    margin-bottom: 10px;
+    
+  }
+  
+  .form-registration input {
+    border-radius: 0;
+  } */
